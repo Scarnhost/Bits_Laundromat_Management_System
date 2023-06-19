@@ -1,0 +1,6 @@
+Wash number: 1
+Date : Wed Nov 23 00:00:00 IST 2022
+ Weight given: 69.0
+Status of Wash: Order initiated
+ Total cost of the wash :6550.0
+The extra charges in wash are:6300.0
